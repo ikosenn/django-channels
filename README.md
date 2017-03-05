@@ -1,2 +1,3 @@
-# django-channels
-Experimenting with channels
+# EXPERIMENTING CHANNELS
+
+
